@@ -1,2 +1,3 @@
 # apnasollegedeno
-this is my first repossitory
+this is my first git repossitory
+Author-Sheshadri Reddy C
